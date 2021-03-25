@@ -1,2 +1,2 @@
 # Xmufoods
-for canteen in XMuU
+for canteen in XMU
